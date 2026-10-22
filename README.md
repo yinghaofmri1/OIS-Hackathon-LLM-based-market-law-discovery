@@ -6,8 +6,6 @@ A research pipeline for **discovering and testing interpretable empirical relati
 
 ## Notebook
 
-[
-
 Designed to run top-to-bottom in **Google Colab with GPU acceleration**, using Google Drive for inputs and generated results.
 
 ## Research questions
