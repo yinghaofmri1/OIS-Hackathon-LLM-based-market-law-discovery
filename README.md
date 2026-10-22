@@ -6,7 +6,7 @@ A research pipeline for **discovering and testing interpretable empirical relati
 
 ## Notebook
 
-[`news_multi_law_discovery_v3_LoRA(1).ipynb`](news_multi_law_discovery_v3_LoRA(1).ipynb)
+[
 
 Designed to run top-to-bottom in **Google Colab with GPU acceleration**, using Google Drive for inputs and generated results.
 
